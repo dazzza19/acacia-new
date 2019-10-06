@@ -2469,6 +2469,105 @@ section.lazy-placeholder:after {
     padding-right: 5rem;
   }
 }
+.cid-rDBb0z4Wmk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rDBb0z4Wmk .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-rDBb0z4Wmk h4 {
+  font-weight: 500;
+}
+.cid-rDBb0z4Wmk p {
+  color: #232323;
+}
+.cid-rDBb0z4Wmk .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-rDBb0z4Wmk .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rDBb0z4Wmk .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rDBb0z4Wmk .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rDBb0z4Wmk .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rDBb0z4Wmk .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rDBb0z4Wmk .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rDBb0z4Wmk .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rDBb0z4Wmk .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rDBb0z4Wmk .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-rDBbAkMaRx {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rDBbAkMaRx .counter-container {
+  color: #767676;
+}
+.cid-rDBbAkMaRx .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rDBbAkMaRx .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rDBbAkMaRx .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #000000;
+  background: #ffffff;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
 .cid-rDj7zTnPhU .navbar {
   background: #ffffff;
   transition: none;
@@ -2872,105 +2971,6 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.cid-rDBb0z4Wmk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-rDBb0z4Wmk .mbr-section-btn > * {
-  margin: 0;
-}
-.cid-rDBb0z4Wmk h4 {
-  font-weight: 500;
-}
-.cid-rDBb0z4Wmk p {
-  color: #232323;
-}
-.cid-rDBb0z4Wmk .aside-content {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.cid-rDBb0z4Wmk .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-rDBb0z4Wmk .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rDBb0z4Wmk .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-rDBb0z4Wmk .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-rDBb0z4Wmk .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-rDBb0z4Wmk .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rDBb0z4Wmk .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-rDBb0z4Wmk .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-rDBb0z4Wmk .cost {
-  text-decoration: line-through;
-  color: #767676;
-}
-.cid-rDBbAkMaRx {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rDBbAkMaRx .counter-container {
-  color: #767676;
-}
-.cid-rDBbAkMaRx .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-rDBbAkMaRx .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-rDBbAkMaRx .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #000000;
-  background: #ffffff;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
 }
 .cid-rDj7zTnPhU .navbar {
   background: #ffffff;
